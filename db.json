@@ -1,11 +1,20 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+{ 
+  
+  "header": { 
+     "title":"Thiana imóveis",
+     "listTels":[ 
+        "(12) 3882-5600",
+        "(12) 3882-3238"
+     ],
+     "listWhat":[ 
+        "(12) 99704-0404",
+        "(12) 99704-0405"
+     ],
+     "listEmails":[ 
+        "thianaimoveis@uol.com.br",
+        "contato@thianaimoveis.com.br"
+     ],
+     "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
   }
+  
 }
