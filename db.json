@@ -1,31 +1,29 @@
 { 
-  
-  "header": { 
-     "title":"Thiana imóveis",
-    "linkLogo":"https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
-     "listTels":[ 
-        "(12) 3882-5600",
-        "(12) 3882-3238"
-     ],
-     "listWhat":[ 
-        "(12) 99704-0404"
-     ],
-     "listEmails":[ 
-        "thianaimoveis@uol.com.br"
-     ],
-     "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
-  },
-  "banners":[ 
-    "https://www.w3schools.com/howto/img_parallax.jpg",
-    "https://s.iha.com/7737900008175/Holiday-lettings-Turunc-Aparthotel_8.jpeg",
-    "https://s.iha.com/5984000029586/Alquiler-vacacional-Roquebrune-sur-argens-Greenchalets-Cote-d-azur_29.jpeg",
-    "https://s.iha.com/5984000011935/Alquiler-vacacional-Roquebrune-sur-argens-Greenchalets-Cote-d-azur_11.jpeg",
-    "https://s.iha.com/7737900005385/Holiday-lettings-Turunc-Aparthotel_5.jpeg",,
-    "http://bloquo.cc/img/works/1.jpg",
-    "http://bloquo.cc/img/works/2.jpg",
-    "http://bloquo.cc/img/works/3.jpg",
-    "http://bloquo.cc/img/works/4.jpg",
-    "http://bloquo.cc/img/works/5.jpg"
+   "header":{ 
+      "title":"Thiana imóveis",
+      "linkLogo":"https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
+      "listTels":[ 
+         "(12) 3882-5600",
+         "(12) 3882-3238"
+      ],
+      "listWhat":[ 
+         "(12) 99704-0404"
+      ],
+      "listEmails":[ 
+         "thianaimoveis@uol.com.br"
+      ],
+      "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
+   },
+   "banners":[ 
+      "https://www.w3schools.com/howto/img_parallax.jpg",
+      "https://s.iha.com/7737900008175/Holiday-lettings-Turunc-Aparthotel_8.jpeg",
+      "https://s.iha.com/5984000029586/Alquiler-vacacional-Roquebrune-sur-argens-Greenchalets-Cote-d-azur_29.jpeg",
+      "https://s.iha.com/5984000011935/Alquiler-vacacional-Roquebrune-sur-argens-Greenchalets-Cote-d-azur_11.jpeg",
+      "https://s.iha.com/7737900005385/Holiday-lettings-Turunc-Aparthotel_5.jpeg",
+      "http://bloquo.cc/img/works/1.jpg",
+      "http://bloquo.cc/img/works/2.jpg",
+      "http://bloquo.cc/img/works/3.jpg",
+      "http://bloquo.cc/img/works/4.jpg",
+      "http://bloquo.cc/img/works/5.jpg"
    ]
-  
 }
