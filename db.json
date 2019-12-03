@@ -15,7 +15,22 @@
       "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
    },
    "banners":[ 
-      "https://www.w3schools.com/howto/img_parallax.jpg",
-      "http://bloquo.cc/img/works/13.jpg"
+      {
+         "link":"https://www.w3schools.com/howto/img_parallax.jpg",
+         "text":"Hoje é o dia certo para encontrar o seu imóvel"
+      },
+      {
+         "link":"http://bloquo.cc/img/works/13.jpg",
+         "text":"Encontre imóveis para reformar do seu jeito"
+      },
+      {
+         "link":"http://bloquo.cc/img/works/15.jpg",
+         "text":"Este é um exemplo de frase grande para colocar no banner"
+      },
+      {
+         "link":"http://bloquo.cc/img/works/12.jpg",
+         "text":"São 4 banners em média para carregar de uma forma legal"
+      }
+   
    ]
 }
