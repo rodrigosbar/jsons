@@ -16,12 +16,8 @@
    },
    "banners":[ 
       {
-         "link":"https://www.w3schools.com/howto/img_parallax.jpg",
-         "text":"Hoje é o dia certo para encontrar o seu imóvel"
-      },
-      {
          "link":"http://bloquo.cc/img/works/13.jpg",
-         "text":"Encontre imóveis para reformar do seu jeito"
+         "text":" Hoje é o dia certo para encontrar o seu imóvel "
       },
       {
          "link":"http://bloquo.cc/img/works/15.jpg",
@@ -29,7 +25,7 @@
       },
       {
          "link":"http://bloquo.cc/img/works/12.jpg",
-         "text":"São 4 banners em média para carregar de uma forma legal"
+         "text":"Encontre imóveis para reformar do seu jeito"
       }
    
    ]
