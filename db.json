@@ -1,32 +1,168 @@
-{ 
-   "header":{ 
-      "title":"Thiana imóveis",
-      "linkLogo":"https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
-      "listTels":[ 
-         "(12) 3882-5600",
-         "(12) 3882-3238"
-      ],
-      "listWhat":[ 
-         "(12) 99704-0404"
-      ],
-      "listEmails":[ 
-         "thianaimoveis@uol.com.br"
-      ],
-      "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
-   },
-   "banners":[ 
-      {
-         "link":"http://bloquo.cc/img/works/13.jpg",
-         "text":" Hoje é o dia certo para encontrar o seu imóvel "
-      },
-      {
-         "link":"http://bloquo.cc/img/works/15.jpg",
-         "text":"Este é um exemplo de frase grande tá ok?"
-      },
-      {
-         "link":"http://bloquo.cc/img/works/12.jpg",
-         "text":"Encontre imóveis para reformar do seu jeito"
-      }
-   
-   ]
+{
+     "header": {
+          "title": "Thiana imóveis",
+          "linkLogo": "https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
+          "listTels": [
+               "(12) 3882-5600",
+               "(12) 3882-3238"
+          ],
+          "listWhat": [
+               "(12) 99704-0404"
+          ],
+          "listEmails": [
+               "thianaimoveis@uol.com.br"
+          ],
+          "address": "Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
+     },
+     "banners": [
+          {
+               "link": "http://bloquo.cc/img/works/15.jpg",
+               "text": " Hoje é o dia certo para encontrar o seu imóvel "
+          },
+          {
+               "link": "http://bloquo.cc/img/works/13.jpg",
+               "text": "Este é um exemplo de frase grande tá ok?"
+          },
+          {
+               "link": "http://bloquo.cc/img/works/12.jpg",
+               "text": "Encontre imóveis para reformar do seu jeito"
+          }
+     ],
+     "alugar": [
+          {
+               "id": 1,
+               "text": "Comprar"
+          },
+          {
+               "id": 2,
+               "text": "Alugar"
+          },
+          {
+               "id": 3,
+               "text": "Permuta"
+          }
+     ],
+     "tipos": [
+          {
+               "id": 1,
+               "text": "Apartamento",
+               "relatedId": "1"
+          },
+          {
+               "id": 2,
+               "text": "Casa",
+               "relatedId": "1"
+          },
+          {
+               "id": 3,
+               "text": "chácara",
+               "relatedId": "1"
+          },
+          {
+               "id": 1,
+               "text": "Apartamento",
+               "relatedId": "2"
+          },
+          {
+               "id": 2,
+               "text": "Casa",
+               "relatedId": "2"
+          },
+          {
+               "id": 3,
+               "text": "Galpão",
+               "relatedId": "2"
+          },
+          {
+               "id": 1,
+               "text": "Apartamento",
+               "relatedId": "3"
+          },
+          {
+               "id": 2,
+               "text": "Casa",
+               "relatedId": "3"
+          },
+          {
+               "id": 3,
+               "text": "Ponto Comercial",
+               "relatedId": "3"
+          },
+          {
+               "id": 4,
+               "text": "Sobrado",
+               "relatedId": "3"
+          }
+     ],
+     "cidades": [
+          {
+               "id": 1,
+               "text": "Caraguatatuba - sp"
+          },
+          {
+               "id": 2,
+               "text": "Guarulhos - sp"
+          },
+          {
+               "id": 3,
+               "text": "São José dos campos - sp"
+          }
+     ],
+     "bairros": [
+          {
+               "id": 1,
+               "text": "Aruan",
+               "relatedId": "1"
+          },
+          {
+               "id": 2,
+               "text": "Centro",
+               "relatedId": "1"
+          },
+          {
+               "id": 3,
+               "text": "Golfinho",
+               "relatedId": "1"
+          },
+          {
+               "id": 4,
+               "text": "indaiá",
+               "relatedId": "1"
+          },
+          {
+               "id": 1,
+               "text": "Portal dos gramados",
+               "relatedId": "2"
+          },
+          {
+               "id": 2,
+               "text": "Centro",
+               "relatedId": "2"
+          },
+          {
+               "id": 3,
+               "text": "Aeroporto",
+               "relatedId": "2"
+          },
+          {
+               "id": 1,
+               "text": "Bosque dos eucaliptos",
+               "relatedId": "3"
+          },
+          {
+               "id": 2,
+               "text": "Monte castelo",
+               "relatedId": "3"
+          },
+          {
+               "id": 3,
+               "text": "Vista verde",
+               "relatedId": "3"
+          },
+          {
+               "id": 4,
+               "text": "Aquárius",
+               "relatedId": "3"
+          }
+     ]
 }
