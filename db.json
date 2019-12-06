@@ -43,7 +43,6 @@
           }
      ],
      "tipos": [
-          
           {
                "id": 2,
                "text": "Casa",
@@ -54,13 +53,11 @@
                "text": "chácara",
                "relatedId": "1"
           },
-         
           {
                "id": 3,
                "text": "Galpão",
                "relatedId": "2"
           },
-         
           {
                "id": 3,
                "text": "Ponto Comercial",
@@ -71,49 +68,6 @@
                "text": "Sobrado",
                "relatedId": "3"
           }
-     ],
-     "cidades": [
-          {
-               "id": 1,
-               "text": "Caraguatatuba - sp"
-          },
-          {
-               "id": 2,
-               "text": "Guarulhos - sp"
-          },
-          {
-               "id": 3,
-               "text": "São José dos campos - sp"
-          }
-     ],
-     "bairros": [
-          {
-               "id": 1,
-               "text": "Aruan",
-               "relatedId": "1"
-          },
-          {
-               "id": 2,
-               "text": "Centro",
-               "relatedId": "1"
-          },
-      
-          {
-               "id": 1,
-               "text": "Portal dos gramados",
-               "relatedId": "2"
-          },
-         
-          {
-               "id": 1,
-               "text": "Bosque dos eucaliptos",
-               "relatedId": "3"
-          },
-          {
-               "id": 2,
-               "text": "Monte castelo",
-               "relatedId": "3"
-          }
-         
      ]
+
 }
