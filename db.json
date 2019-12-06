@@ -27,47 +27,6 @@
                "link": "http://bloquo.cc/img/works/12.jpg",
                "text": "Encontre imóveis para reformar do seu jeito"
           }
-     ],
-     "alugar": [
-          {
-               "id": 1,
-               "text": "Comprar"
-          },
-          {
-               "id": 2,
-               "text": "Alugar"
-          },
-          {
-               "id": 3,
-               "text": "Permuta"
-          }
-     ],
-     "tipos": [
-          {
-               "id": 2,
-               "text": "Casa",
-               "relatedId": "1"
-          },
-          {
-               "id": 3,
-               "text": "chácara",
-               "relatedId": "1"
-          },
-          {
-               "id": 3,
-               "text": "Galpão",
-               "relatedId": "2"
-          },
-          {
-               "id": 3,
-               "text": "Ponto Comercial",
-               "relatedId": "3"
-          },
-          {
-               "id": 4,
-               "text": "Sobrado",
-               "relatedId": "3"
-          }
      ]
 
 }
