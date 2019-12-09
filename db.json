@@ -1,35 +1,35 @@
 {
-     "header": {
-          "title": "Thiana imóveis",
-          "linkLogo": "https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
-          "listTels": [
-               "(12) 3882-5600",
-               "(12) 3882-3238"
-          ],
-          "listWhat": [
-               "(12) 99704-0404"
-          ],
-          "listEmails": [
-               "thianaimoveis@uol.com.br"
-          ],
-          "address": "Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
-     },
-     "banners": [
-          {
-               "link": "http://bloquo.cc/img/works/15.jpg",
-               "text": " Hoje é o dia certo para encontrar o seu imóvel "
-          },
-          {
-               "link": "http://bloquo.cc/img/works/13.jpg",
-               "text": "Este é um exemplo de frase grande tá ok?"
-          },
-          {
-               "link": "http://bloquo.cc/img/works/12.jpg",
-               "text": "Encontre imóveis para reformar do seu jeito"
-          }
-     ],
-     "alertas":[  
-      {  
+   "header":{
+      "title":"Thiana imóveis",
+      "linkLogo":"https://grupo-union.s3.amazonaws.com/sites/logos/11444.png",
+      "listTels":[
+         "(12) 3882-5600",
+         "(12) 3882-3238"
+      ],
+      "listWhat":[
+         "(12) 99704-0404"
+      ],
+      "listEmails":[
+         "thianaimoveis@uol.com.br"
+      ],
+      "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
+   },
+   "banners":[
+      {
+         "link":"http://bloquo.cc/img/works/15.jpg",
+         "text":" Hoje é o dia certo para encontrar o seu imóvel "
+      },
+      {
+         "link":"http://bloquo.cc/img/works/13.jpg",
+         "text":"Este é um exemplo de frase grande tá ok?"
+      },
+      {
+         "link":"http://bloquo.cc/img/works/12.jpg",
+         "text":"Encontre imóveis para reformar do seu jeito"
+      }
+   ],
+   "alertas":[
+      {
          "IdAlert":85,
          "typeAlert":0,
          "nmAlert":"teste Rodrigo",
@@ -54,10 +54,11 @@
          "tag":16474,
          "idResponsible":83,
          "responsibleIsSendEmail":true,
-         "notification":[  
+         "notification":[
             83
          ],
          "notificationIsSendEmail":true,
          "textEmail":"teste de texto do email"
       }
+   ]
 }
