@@ -40,37 +40,213 @@
          "urlImg":"https://www.wips-ev.de/templates/yootheme/cache/wp-logo-104fb487.jpeg"
       }
    ],
-   "alertas":[  
-      {  
-         "IdAlert":85,
-         "typeAlert":0,
-         "nmAlert":"teste Rodrigo",
-         "idIndicator":1,
-         "followUpPeriod":1,
-         "criticalValue":1,
-         "alertValue":1,
-         "origin":null,
-         "mathExpression":null,
-         "createImprovementAction":null,
-         "referenceValue":null,
-         "alertCondition":null,
-         "triggerRule":null,
-         "triggerValue":null,
-         "lastMonths":null,
-         "improvementProject":null,
-         "improvementActionName":null,
-         "deadlineMonth":null,
-         "responsibleImprovement":null,
-         "description":null,
-         "justification":null,
-         "tag":16474,
-         "idResponsible":83,
-         "responsibleIsSendEmail":true,
-         "notification":[  
-            83
-         ],
-         "notificationIsSendEmail":true,
-         "textEmail":"teste de texto do email"
-      }
-   ]
+     "imoveis": [
+          {
+               "id": 1,
+               "tipo": 0,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Porto novo",
+               "preco": 460000,
+               "dormitorios": 1,
+               "vagas": 1,
+               "banheiros": 1,
+               "referencia": "AP00045",
+               "tamanho": 75,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2015/03/20803234.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803252.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803259.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2015/03/20803234.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803252.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803259.jpg"
+               ]
+          },
+          {
+               "id": 2,
+               "tipo": 0,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Indaiá, centro",
+               "preco": 215000,
+               "dormitorios": 1,
+               "vagas": 1,
+               "banheiros": 1,
+               "referencia": "AP00045",
+               "tamanho": 40,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2016/06/32444481.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444476.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444473.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2016/06/32444481.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444476.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444473.jpg"
+               ]
+          },
+          {
+               "id": 3,
+               "tipo": 2,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Sobrado Caputera",
+               "preco": 550000,
+               "dormitorios": 4,
+               "vagas": 4,
+               "banheiros": 2,
+               "referencia": "SO00083",
+               "tamanho": 900,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656674.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656748.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656674.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656748.jpg"
+               ]
+          },
+          {
+               "id": 4,
+               "tipo": 2,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Sobrado Mobiliado",
+               "preco": 190000,
+               "dormitorios": 2,
+               "vagas": 3,
+               "banheiros": 2,
+               "referencia": "SO00171",
+               "tamanho": 75,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2018/06/72749358.jpg",
+                    "https://cdn.uso.com.br/11444/2018/06/72749378.jpg",
+                    "https://cdn.uso.com.br/11444/2018/06/72749394.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2018/06/72749358.jpg",
+                    "https://cdn.uso.com.br/11444/2018/06/72749378.jpg",
+                    "https://cdn.uso.com.br/11444/2018/06/72749394.jpg"
+               ]
+          },
+          {
+               "id": 5,
+               "tipo": 1,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Pontal santa Marina",
+               "preco": 150000,
+               "dormitorios": null,
+               "vagas": null,
+               "banheiros": null,
+               "referencia": "TE00064",
+               "tamanho": 445,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2017/10/60289003.jpg",
+                    "https://cdn.uso.com.br/11444/2017/10/60289005.jpg",
+                    "https://cdn.uso.com.br/11444/2017/10/60289009.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2017/10/60289003.jpg",
+                    "https://cdn.uso.com.br/11444/2017/10/60289005.jpg",
+                    "https://cdn.uso.com.br/11444/2017/10/60289009.jpg"
+               ]
+          },
+          {
+               "id": 6,
+               "tipo": 1,
+               "categoria": 1,
+               "isDestaque": false,
+               "titulo": "Jardim do sol, Massaguaçu",
+               "preco": 175000,
+               "dormitorios": null,
+               "vagas": null,
+               "banheiros": null,
+               "referencia": "TE00076",
+               "tamanho": 250,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2018/05/70666355.jpg",
+                    "https://cdn.uso.com.br/11444/2018/05/70666362.jpg",
+                    "https://cdn.uso.com.br/11444/2018/05/70666366.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2018/05/70666355.jpg",
+                    "https://cdn.uso.com.br/11444/2018/05/70666362.jpg",
+                    "https://cdn.uso.com.br/11444/2018/05/70666366.jpg"
+               ]
+          },
+          {
+               "id": 85,
+               "tipo": 0,
+               "categoria": 1,
+               "isDestaque": true,
+               "titulo": "Balneário dos Golfinhos",
+               "preco": 300000,
+               "dormitorios": 2,
+               "vagas": 1,
+               "banheiros": 2,
+               "referencia": "TE00055",
+               "tamanho": null,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2019/11/105754779.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754852.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754856.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2019/11/105754779.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754852.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754856.jpg"
+               ]
+          },
+          {
+               "id": 86,
+               "tipo": 2,
+               "categoria": 1,
+               "isDestaque": true,
+               "titulo": "GOLFINHO, casa pra venda",
+               "preco": 290000,
+               "dormitorios": 3,
+               "vagas": 5,
+               "banheiros": 1,
+               "referencia": "CA00261",
+               "tamanho": 124.65,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2018/01/63034975.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034980.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034989.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2018/01/63034975.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034980.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034989.jpg"
+               ]
+          },
+          {
+               "id": 87,
+               "tipo": 1,
+               "categoria": 1,
+               "isDestaque": true,
+               "titulo": "MASSAGUAÇU, ÓTIMO TERRENO",
+               "preco": 120000,
+               "dormitorios": null,
+               "vagas": null,
+               "banheiros": null,
+               "referencia": "TE00046",
+               "tamanho": 275,
+               "fotosPequenas": [
+                    "https://cdn.uso.com.br/11444/2019/04/92807000.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807071.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807077.jpg"
+               ],
+               "fotosGrandes": [
+                    "https://cdn.uso.com.br/11444/2019/04/92807000.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807071.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807077.jpg"
+               ]
+          }
+     ]
 }
