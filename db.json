@@ -40,7 +40,7 @@
          "urlImg":"https://www.wips-ev.de/templates/yootheme/cache/wp-logo-104fb487.jpeg"
       }
    ],
-      "imoveis": [
+    "imoveis": [
           {
                "id": 1,
                "tipo": 0,
@@ -203,6 +203,61 @@
                     "https://cdn.uso.com.br/11444/2019/04/92807000.jpg",
                     "https://cdn.uso.com.br/11444/2019/04/92807071.jpg",
                     "https://cdn.uso.com.br/11444/2019/04/92807077.jpg"
+               ]
+          },
+          {
+               "id": 88,
+               "tipo": 1,
+               "categoria": 0,
+               "isDestaque": false,
+               "titulo": "Porto novo 2",
+               "preco": 410000,
+               "dormitorios": 2,
+               "vagas": 2,
+               "banheiros": 2,
+               "referencia": "AP00045",
+               "tamanho": 85,
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2015/03/20803234.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803252.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803259.jpg"
+               ]
+              
+          },
+          {
+               "id": 89,
+               "tipo": 0,
+               "categoria": 0,
+               "isDestaque": false,
+               "titulo": "Indaiá, centro 2",
+               "preco": 215000,
+               "dormitorios": 1,
+               "vagas": 1,
+               "banheiros": 1,
+               "referencia": "AP00045",
+               "tamanho": 40,
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2016/06/32444481.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444476.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444473.jpg"
+               ]
+          },
+          {
+               "id": 90,
+               "tipo": 2,
+               "categoria": 0,
+               "isDestaque": false,
+               "titulo": "Sobrado Caputera 2",
+               "preco": 510000,
+               "dormitorios": 4,
+               "vagas": 4,
+               "banheiros": 2,
+               "referencia": "SO00083",
+               "tamanho": 900,
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656674.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656748.jpg"
                ]
           }
      ]
