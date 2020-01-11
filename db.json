@@ -18,9 +18,9 @@
                {"link":"/casas", "label":"casas"},
                {"link":"/pontoComercial", "label":"pontos comerciais"},
                {"link":"/chacaras", "label":"Chacaras"},
-               {"link":"/galpoes", "label":"Galões"},
+               {"link":"/galpoes", "label":"Galpões"},
                {"link":"/lotes", "label":"Lotes"},
-               {"link":"/lancamentos", "label":"Lançamentos"}
+               {"link":"/fazendas", "label":"Fazendas"}
       ]
    },
    "banners":[  
