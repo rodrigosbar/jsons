@@ -12,7 +12,16 @@
       "listEmails":[  
          "thianaimoveis@uol.com.br"
       ],
-      "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005"
+      "address":"Avenida Arthur Costa Filho, 573 centro, Caraguatatuba/SP CEP: 11660-005",
+      "menu": [
+               {"link":"/apartamentos", "label":"apartamentos"},
+               {"link":"/casas", "label":"casas"},
+               {"link":"/pontoComercial", "label":"pontos comerciais"},
+               {"link":"/chacaras", "label":"Chacaras"},
+               {"link":"/galpoes", "label":"Galões"},
+               {"link":"/lotes", "label":"Lotes"},
+               {"link":"/lancamentos", "label":"Lançamentos"}
+      ]
    },
    "banners":[  
       {  
